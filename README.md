@@ -1,0 +1,2 @@
+# ChineseLyricsGenerator-LSTM-
+Final Project
